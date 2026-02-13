@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClinicPos.Api.Tests/ClinicPos.Api.Tests.csproj" />
+  <Project Path="ClinicPos.Api/ClinicPos.Api.csproj" />
+</Solution>
